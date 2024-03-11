@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://jkottler.github.io/fbl-roller",
+  "homepage": "https://pizzystrizzy.github.io/fbl-roller",
   "browserslist": [
     ">0.2%",
     "not dead",
